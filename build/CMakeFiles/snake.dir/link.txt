@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/snake.dir/src/main.cpp.o -o snake   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lraylib -lm -lpthread -ldl -lrt -lX11 
