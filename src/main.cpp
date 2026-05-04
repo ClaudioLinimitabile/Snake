@@ -215,7 +215,7 @@ int main() {
                 expandSnake(sn);
             }
 
-            if(sn->posx>800 || sn->posx<0 || sn->posy>600 || sn->posy<0){
+            if(sn->posx>780 || sn->posx<0 || sn->posy>580 || sn->posy<0){
                 EndDrawing();
                 break;
             }
