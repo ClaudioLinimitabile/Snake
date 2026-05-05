@@ -183,7 +183,7 @@ int main() {
                 direction = 3;
             }
 
-            if(t>0.18){
+            if(t>0.14){
 
                 if(sn->direction==1 && direction==0){
                     direction = 1;
